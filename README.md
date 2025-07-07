@@ -34,8 +34,8 @@ This will:
 
 ## 📚 Dataset
 
-This dataset comes from Kaggle:
-🔗 Heart Failure Prediction
+This dataset comes from Kaggle:  
+🔗 [Heart Failure Prediction](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
 
 To use it, place the heart.csv file inside the data/ folder.
 
