@@ -37,7 +37,7 @@ This will:
 This dataset comes from Kaggle:  
 🔗 [Heart Failure Prediction](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
 
-To use it, place the heart.csv file inside the data/ folder.
+To use it, place the heart.csv file inside the data/folder.
 
 ## ⚖️ License
 This project is released under the MIT License.
