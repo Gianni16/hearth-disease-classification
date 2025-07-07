@@ -15,18 +15,6 @@ This project includes:
 
 ---
 
-## 📁 Project Structure
-
-project/
-├── data/ # Dataset (heart.csv)
-├── notebooks/ # Jupyter Notebooks for EDA
-├── plots/ # Saved charts
-├── src/ # Python scripts
-│ ├── main.py # Main script to run the pipeline
-│ ├── utils.py # Data loading, preprocessing, model training & evaluation functions
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
-
 ## 📦 Requirements
 
 To install all required packages:
