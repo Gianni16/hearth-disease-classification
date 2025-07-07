@@ -24,9 +24,9 @@ pip install -r requirements.txt
 ```
 
 ## 🚀 How to Run
-
+```bash
 python main.py
-
+```
 This will:
 1. Load and preprocess the data
 2. Train and evaluate a Logistic Regression and a Random Forest model
