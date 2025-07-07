@@ -20,7 +20,8 @@ This project includes:
 To install all required packages:
 
 ```bash
-pip install -r requirements.txt```
+pip install -r requirements.txt
+```
 
 ## 🚀 How to Run
 
