@@ -2,13 +2,18 @@
 
 A Machine Learning project to predict the presence of heart disease based on clinical features.
 
+---
+
 ## 📊 Project Overview
 
 This project includes:
+
 - 🔍 Exploratory Data Analysis (EDA)
 - 🧠 Supervised models: Logistic Regression and Random Forest
 - 📈 Performance evaluation with metrics: Precision, Recall, AUC, ROC and PR curves
 - 🔥 Feature importance analysis
+
+---
 
 ## 📁 Project Structure
 
