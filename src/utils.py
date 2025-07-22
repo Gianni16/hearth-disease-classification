@@ -1,5 +1,6 @@
 # utils.py
 
+import os
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
@@ -11,7 +12,9 @@ from sklearn.metrics import (
 
 
 def load_data():
-    return pd.read_csv("heart.csv")
+    base_path = os.path.dirname(os.path.dirname(__file__))  # torna alla root del progetto
+    file_path = os.path.join(base_path, "data", "heart.csv")
+    return pd.read_csv(file_path)
 
 def preprocess(df):
     df = df.drop_duplicates()
